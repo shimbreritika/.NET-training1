@@ -1,0 +1,14 @@
+C:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.AssemblyInfoInputs.cache
+C:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.AssemblyInfo.cs
+C:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.csproj.CoreCompileInputs.cache
+c:\Users\shimb\OneDrive\practical\8Jul\bin\Debug\net10.0\8Jul.exe
+c:\Users\shimb\OneDrive\practical\8Jul\bin\Debug\net10.0\8Jul.deps.json
+c:\Users\shimb\OneDrive\practical\8Jul\bin\Debug\net10.0\8Jul.runtimeconfig.json
+c:\Users\shimb\OneDrive\practical\8Jul\bin\Debug\net10.0\8Jul.dll
+c:\Users\shimb\OneDrive\practical\8Jul\bin\Debug\net10.0\8Jul.pdb
+c:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.dll
+c:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\refint\8Jul.dll
+c:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.pdb
+c:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\8Jul.genruntimeconfig.cache
+c:\Users\shimb\OneDrive\practical\8Jul\obj\Debug\net10.0\ref\8Jul.dll
