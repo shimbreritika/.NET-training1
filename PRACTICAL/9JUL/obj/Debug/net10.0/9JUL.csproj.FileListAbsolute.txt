@@ -1,0 +1,14 @@
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.AssemblyInfoInputs.cache
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.AssemblyInfo.cs
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.csproj.CoreCompileInputs.cache
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\bin\Debug\net10.0\9JUL.exe
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\bin\Debug\net10.0\9JUL.deps.json
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\bin\Debug\net10.0\9JUL.runtimeconfig.json
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\bin\Debug\net10.0\9JUL.dll
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\bin\Debug\net10.0\9JUL.pdb
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.dll
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\refint\9JUL.dll
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.pdb
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\9JUL.genruntimeconfig.cache
+C:\Users\shimb\OneDrive\PRACTICAL\9JUL\obj\Debug\net10.0\ref\9JUL.dll
