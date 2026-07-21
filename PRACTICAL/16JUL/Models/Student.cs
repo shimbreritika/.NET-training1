@@ -1,0 +1,14 @@
+﻿namespace _16JUL.Models
+{
+    public class Student
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Course { get; set; }
+        public int Fees {  get; set; }
+        public string Qualification {  get; set; }
+        public char Gender {  get; set; }
+
+    }
+}
