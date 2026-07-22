@@ -1,0 +1,42 @@
+﻿@model _22JUL.Models.Stationary
+
+<div class="text-center">
+    <h1 class="display-4">Add Stationay</h1>
+</div>
+
+<form asp-controller="Town" asp-action="Create" method="post">
+    <div>
+        <label asp-for="Item"></label>
+        <input asp-for="Item" class="form-control" />
+        <span asp-validation-for="Item" style="color :red"></span>
+    </div>
+    <br />
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" style="color :red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" style="color :red"></span>
+    </div>
+    <br />
+
+    <div>
+        <label asp-for="Stock"></label>
+        <input asp-for="Stock" class="form-control" />
+        <span asp-validation-for="Stock" style="color :red"></span>
+    </div>
+    <br />
+
+    <button type="submit"> Save Product</button>
+
+
+</form>
+
+<div asp-validation-summary="All" style="color :red"></div>
