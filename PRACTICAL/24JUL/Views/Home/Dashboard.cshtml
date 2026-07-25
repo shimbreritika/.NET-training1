@@ -1,0 +1,37 @@
+﻿@model List<_24JUL.Models.Student>
+
+
+<h3>Dashboard</h3>
+
+<h2>Welcome @ViewBag.User</h2>
+
+<p>Hello ,this is you dashboard</p>
+
+<br/>
+
+<h2>Student List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Student ID</th>
+            <th>Student Name</th>
+            <th>Roll No</th>
+            <th>Branch</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.RollNo</td>
+                <td>@item.Branch</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Logout" class="btn btn-danger">LOGOUT</a>
