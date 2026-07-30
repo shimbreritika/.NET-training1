@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|c:\\users\\shimb\\onedrive\\practical\\30jul\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E569348-134E-508E-CA83-0CE459BF11A1}|30JUL.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Model\\Course.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Course.cs",
+              "RelativeToolTip": "Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T06:02:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Service\\IStudentService.cs",
+              "RelativeToolTip": "Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T06:01:26.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T05:45:59.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:34:22.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Batch.cs",
+              "RelativeDocumentMoniker": "Model\\Batch.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Batch.cs",
+              "RelativeToolTip": "Model\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:33:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\PRACTICAL\\30JUL\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:31:59.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
