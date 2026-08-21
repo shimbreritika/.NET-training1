@@ -1,0 +1,28 @@
+﻿@model List<CategoryViewModel>
+
+<h1>Category List</h1>
+<a asp-action="Create" class="btn btn-primary">Add Category</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>Id</th>
+            <th>Category Name</th>
+            <th>Action </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+
+            
+            </tr>
+
+        }
+    </tbody>
+</table>

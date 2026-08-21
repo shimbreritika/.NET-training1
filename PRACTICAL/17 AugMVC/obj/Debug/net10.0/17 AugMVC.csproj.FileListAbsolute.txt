@@ -1,0 +1,98 @@
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\appsettings.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.staticwebassets.endpoints.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.exe
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.deps.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.runtimeconfig.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.dll
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\bin\Debug\net10.0\17 AugMVC.pdb
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\scopedcss\bundle\17 AugMVC.styles.css
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\scopedcss\projectbundle\17 AugMVC.bundle.scp.css
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\aczj06sipv-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\ntlwo4vgou-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\08rl27lcdp-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\so40elj2nm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\2p78sqo859-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\7lm6q243h2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\iw0fhr3w8a-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\rozflntrap-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\8kgutdj446-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\w7am4q4bbn-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\2j6g5r3pnj-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\cqw2vvsfy6-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\fw6rit6lt6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\87hryd06mx-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\w6mh5q4i9a-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\m425i8j25v-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\uimxsk1mvl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\9xgyf1yg46-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\lh26hptak0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\xfs1meixf3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\nawixc2rof-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\luioy910ct-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\hi9ubkm9g8-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\3l3ux7ffxk-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\wuwxm6u1d7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\5kswmiu25m-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\w33oueii56-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\6jn66z444m-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\8jw5hds1mq-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\c3u35twt6r-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\fmczhb0r4i-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\aapgn3qmd6-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\h8clznq26s-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\obzcqq3bue-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\vdx7obrvvf-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\r9bb8a21tp-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\79vtxzw2e0-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\adsgocq1ny-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\3efn7ymzgs-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\uka7xvw3xg-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\5wus6s2n06-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\7pu968x75j-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\lisu229how-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\wu3k9x3d7q-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\hlqrjhqsmp-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\hv454hzept-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\fkqa6s0d2v-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\pyf524cd9n-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\rge4a5ovjp-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\skwo8tb3p1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\2sahffeh5u-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\cf3t4a1wmi-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\99bag2e0ae-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\95e3qfxviv-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\a3ckuaxrp9-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\5l5vo8tz94-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\xpwnjmisk9-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\hc5mgh918v-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\vkkxqcc5gl-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\us0lpx0mvn-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\jdszejfn4b-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\cvi9nxserf-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\3qzajse912-{0}-ozskkhsizd-ozskkhsizd.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\compressed\16d9vx1t4p-{0}-ozskkhsizd-ozskkhsizd.gz
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.dll
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\refint\17 AugMVC.dll
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.pdb
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\17 AugMVC.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\CertifyEra\Practical\17 AugMVC\obj\Debug\net10.0\ref\17 AugMVC.dll
